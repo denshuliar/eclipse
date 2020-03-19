@@ -827,8 +827,8 @@ button.swiper-pagination-bullet {
 
 @font-face {
     font-family: Roboto-Thin;
-    src: url(../../fonts/Roboto-Thin.eot);
-    src: url(../../fonts/Roboto-Thin.eot?#iefix) format("embedded-opentype"), url(../../fonts/Roboto-Thin.woff2) format("woff2"), url(../../fonts/Roboto-Thin.woff) format("woff"), url(../../fonts/Roboto-Thin.ttf) format("truetype");
+    src: url(fonts/Roboto-Thin.eot);
+    src: url(fonts/Roboto-Thin.eot?#iefix) format("embedded-opentype"), url(fonts/Roboto-Thin.woff2) format("woff2"), url(fonts/Roboto-Thin.woff) format("woff"), url(fonts/Roboto-Thin.ttf) format("truetype");
     font-weight: 100;
     font-style: normal
 }
@@ -1478,7 +1478,7 @@ li a:hover {
 }
 
 .recomendation-bg {
-    background: url(../../../img/content/slide-bg-blur.png) center top no-repeat #f08080;
+    background: url(../img/content/slide-bg-blur.png) center top no-repeat #f08080;
     background-size: cover;
     padding: 120px 0 61px
 }
@@ -1929,17 +1929,17 @@ li a:hover {
 
 .translator-container .swiper-button-next {
     right: 0;
-    background-image: url(../../../img/content/next.png)
+    background-image: url(../img/content/next.png)
 }
 
 .translator-container .swiper-button-prev {
     left: 0;
-    background-image: url(../../../img/content/prev.png)
+    background-image: url(../img/content/prev.png)
 }
 
 .masonry-bg {
     padding: 46px 0 53px;
-    background: url(../../../img/content/gallery.png) center top no-repeat;
+    background: url(../img/content/gallery.png) center top no-repeat;
     background-size: cover;
 }
 
@@ -2781,7 +2781,7 @@ body.modal-is-open {
 }
 
 .header {
-    background: url(../../../img/content/section-bg-01.jpg) center top no-repeat #f08080;
+    background: url(../img/content/section-bg-01.jpg) center top no-repeat #f08080;
     background-size: cover;
     padding: 1.875rem 0 2.8125rem;
     position: relative
@@ -3398,7 +3398,7 @@ body.modal-is-open {
     top: .25rem;
     width: .625rem;
     height: 1rem;
-    background: url(../../../img/content/next.png)
+    background: url(../img/content/next.png)
 }
 
 .load-block .form-input-wrapp+* {
@@ -3438,7 +3438,7 @@ body.modal-is-open {
 }
 
 .banner-bg {
-    background: url(../../../img/content/section-bg-02.jpg) center top no-repeat #f08080;
+    background: url(../img/content/section-bg-02.jpg) center top no-repeat #f08080;
     background-size: cover;
     padding: 48px 0
 }
